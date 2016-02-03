@@ -1,0 +1,1010 @@
+<?xml version="1.0" encoding="UTF-8"?><html>
+   <head>
+      <title>EIC summary</title>
+      <style type="text/css">
+         td { padding: 1ex; }
+         
+      </style>
+      <script type="application/javascript" src="http://www.wwp.neu.edu/utils/bin/javascript/sorttable.js"></script>
+   </head>
+   <body>
+      <table border="1" class="sortable">
+         <tr style="background-color: #EDC;">
+            <td>file</td>
+            <td>title</td>
+            <td>author</td>
+            <td>date</td>
+            <td>pubPlace</td>
+         </tr>
+         <tr>
+            <td>A02605.xml</td>
+            <td>A paradox Prooving  that the inhabitants of the isle called Madagascar, or St. Laurence,
+               (in temporall things) are the happiest people in the world. Whereunto is prefixed,
+               a briefe and true description of that island: the nature of the climate, and condition
+               of the inhabitants, and their speciall affection to the English above other nations.
+               With most probable arguments of a hopefull and fit plantation of a colony there, in
+               respect of the fruitfulnesse of the soyle, the benignity of the ayre, and the relieving
+               of our English ships, both to and from the East-Indies. By Wa: Hamond.
+            </td>
+            <td>Hamond, Walter, fl. 1643.</td>
+            <td>1640</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A03476.xml</td>
+            <td>The Hollanders declaration of the affaires of the East Indies. Or A true relation
+               of that which passed in the Ilands of Banda, in the East Indies: in the yeare of our
+               Lord God, 1621. and before. Faithfully translated according to the Dutch copie Waerachtich
+               verhael, van 't geene inde eylanden van Banda, inden jaere sestien-hondert eenentwintich,
+               ede te vooren is ghepasseert. English.
+            </td>
+            <td></td>
+            <td>1622</td>
+            <td>Amsterdam i.e. London </td>
+         </tr>
+         <tr>
+            <td>A03477.xml</td>
+            <td>An answere to the Hollanders declaration, concerning the occurrents of the East-India.
+               The first part. Written by certaine marriners, lately returned from thence into England
+            </td>
+            <td></td>
+            <td>1622</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A06785.xml</td>
+            <td>The center of The circle of commerce. Or, A refutation of a treatise, intituled The
+               circle of commerce, or The ballance of trade, lately published by E.M. By Gerard Malynes
+               merchant
+            </td>
+            <td>Malynes, Gerard, fl. 1586-1641.</td>
+            <td>1623</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A06786.xml</td>
+            <td>Consuetudo, vel lex mercatoria, or The ancient law-merchant Diuided into three parts:
+               according to the essentiall parts of trafficke. Necessarie for all statesmen, iudges,
+               magistrates, temporall and ciuile lawyers, mint-men, merchants, marriners, and all
+               others negotiating in all places of the world. By Gerard Malynes merchant.
+            </td>
+            <td>Malynes, Gerard, fl. 1586-1641.</td>
+            <td>1622</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A07886.xml</td>
+            <td>A discourse of trade, from England vnto the East-Indies answering to diuerse obiections
+               which are vsually made against the same. By T.M. Discourse of trade, from England
+               unto the East-Indies.
+            </td>
+            <td>Mun, Thomas, 1571-1641.</td>
+            <td>1621</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A10821.xml</td>
+            <td>The merchants mappe of commerce wherein, the universall manner and matter of trade,
+               is compendiously handled. The standerd and currant coines of sundry princes, observed.
+               The reall and imaginary coines of accompts and exchanges, expressed. The naturall
+               and artificiall commodities of all countries for transportation declared. The weights
+               and measures of all eminent cities and tovvnes of traffique, collected and reduced
+               one into another; and all to the meridian of commerce practised in the famous citie
+               of London. By Lewes Roberts, merchant. Necessary for all such as shall be imployed
+               in the publique affaires of princes in forreigne parts; for all gentlemen and others
+               that travell abroad for delight or pleasure, and for all merchants or their factors
+               that exercise the art of merchandizing in any part of the habitable world.
+            </td>
+            <td>Roberts, Lewes, 1596-1640.</td>
+            <td>1638</td>
+            <td>At London </td>
+         </tr>
+         <tr>
+            <td>A11223.xml</td>
+            <td>Britaines busse. Or A computation aswell of the charge of a busse or herring-fishing
+               ship As also of the gaine and profit thereby. With the States proclamation annexed
+               vnto the same, as concerning herring-fishing. By E.S.
+            </td>
+            <td>E. S. (Edward Sharpe), 17th cent.</td>
+            <td>1615</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A12330.xml</td>
+            <td>A motion to the East India Company by Thomas Smethwike (an adventurer with them) vpon
+               the reasons following
+            </td>
+            <td>Smethwike, Thomas.</td>
+            <td>1629</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A13042.xml</td>
+            <td>The abridgement of the English Chronicle, first collected by M. Iohn Stow, and after
+               him augmented with very many memorable antiquities, and continued with matters forreine
+               and domesticall, vnto the beginning of the yeare, 1618. by E.H. Gentleman. There is
+               a briefe table at the end of the booke Summarie of Englyshe chronicles. Abridgments
+            </td>
+            <td>Stow, John, 1525?-1605.</td>
+            <td>1618</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A13460.xml</td>
+            <td>The honorable, and memorable foundations, erections, raisings, and ruines, of divers
+               cities, townes, castles, and other pieces of antiquitie, within ten shires and counties
+               of this kingdome namely, Kent, Sussex, Hampshire, Surrey, Barkshire, Essex, Middlesex,
+               Hartfordshire, Buckinghamshire, and Oxfordshire: with the description of many famous
+               accidents that have happened, in divers places in the said counties. Also, a relation
+               of the wine tavernes either by their signes, or names of the persons that allow, or
+               keepe them, in, and throughout the said severall shires. By John Taylor.
+            </td>
+            <td>Taylor, John, 1580-1653.</td>
+            <td>1636</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A14292.xml</td>
+            <td>The golden fleece diuided into three parts, vnder which are discouered the errours
+               of religion, the vices and decayes of the kingdome, and lastly the wayes to get wealth,
+               and to restore trading so much complayned of. Transported from Cambrioll Colchos,
+               out of the southermost part of the iland, commonly called the Newfoundland, by Orpheus
+               Iunior, for the generall and perpetuall good of Great Britaine.
+            </td>
+            <td>Vaughan, William, 1577-1641.</td>
+            <td>1626</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A19313.xml</td>
+            <td>Virginia's God be thanked, or A sermon of thanksgiving for the happie successe of
+               the affayres in Virginia this last yeare. Preached by Patrick Copland at Bow-Church
+               in Cheapside, before the Honorable Virginia Company, on Thursday, the 18. of Aprill
+               1622. And now published by the commandement of the said honorable Company. Hereunto
+               are adjoyned some epistles, written first in Latine (and now Englished) in the East
+               Indies by Peter Pope, an Indian youth, borne in the bay of Bengala, who was first
+               taught and converted by the said P.C. And after baptized by Master Iohn Wood, Dr in
+               Divinitie, in a famous assembly before the Right Worshipfull, the East India Company,
+               at S. Denis in Fan-Church streete in London, December 22. 1616
+            </td>
+            <td>Copland, Patrick, ca. 1570-ca. 1655.</td>
+            <td>1622</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A19763.xml</td>
+            <td>A briefe of the Lady Dales petition to the Parliament</td>
+            <td>Dale, Elizabeth, Lady.</td>
+            <td>1624</td>
+            <td>S.l. </td>
+         </tr>
+         <tr>
+            <td>A20442.xml</td>
+            <td>The defence of trade In a letter to Sir Thomas Smith Knight, gouernour of the East-India
+               Companie, &amp;c. From one of that societie.
+            </td>
+            <td>Digges, Dudley, Sir, 1583-1639.</td>
+            <td>1615</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A21080.xml</td>
+            <td>By the King, a declaration of orders made by the gouernour and Company of Merchants
+               of London, trading to the East Indies concerning priuate trade, to, in, or from the
+               said Indies, ratified and allowed by the King, and by His Maiesties consent may bee
+               printed for the better publication thereof.
+            </td>
+            <td>England and Wales. Sovereign (1625-1649 : Charles I)</td>
+            <td>1628</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A21082.xml</td>
+            <td>The lawes or standing orders of the East India Company</td>
+            <td>East India Company.</td>
+            <td>1621</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A21084.xml</td>
+            <td>The petition and remonstrance of the Gouernor and Company of Merchants of London,
+               trading to the East Indies exhibited to the Honorable the House of Commons assembled
+               in Parliament. Anno 1628.
+            </td>
+            <td>East India Company.</td>
+            <td>1628</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A21090.xml</td>
+            <td>A true relation of the vniust, cruell, and barbarous proceedings against the English
+               at Amboyna in the East-Indies, by the Neatherlandish gouernour and councel there Also
+               the copie of a pamphlet, set forth first in Dutch and then in English, by some Neatherlander;
+               falsly entituled, A true declaration of the newes that came out of the East-Indies,
+               with the pinace called the Hare, which arriued at Texel in Iune, 1624. Together with
+               an answer to the same pamphlet. By the English East-India companie. Published by authoritie.
+            </td>
+            <td>Skinner, John, Sir, fl. 1624.</td>
+            <td>1624</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A22113.xml</td>
+            <td>Officers fees for Englishmen as they are receiued in the port of London, set downe
+               vnder the hands for the fermors, comptrollers, collectors and searchers of the custom-house
+               there: for a rule and president to euery custome house in any port of his Maiesties
+               dominions, according to the table of fees, signed by the late L. Treasourer, the Earle
+               of Dorset, and the then Barons of the Exchequer.
+            </td>
+            <td>England and Wales. Commissioners of Customs.</td>
+            <td>1615</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A24400.xml</td>
+            <td>An Accompt of all the gold and silver coyned in His Majesties mint, within the Tower
+               of London, from the first of Octob. 1599 ... to this present November, 1675 being
+               seventy six years, divided into four parts, shewing how the coyn of this kingdom did
+               increase in the three first parts proportional to the increase of trade and navigation,
+               and how much it hath decreased in the fourth part, being since this present East India
+               Company was erected in the year 1657.
+            </td>
+            <td></td>
+            <td>1675</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A24509.xml</td>
+            <td>An Account of monies disbursed out of the tonnage and poundage for the Navie and for
+               His Maiesties private use
+            </td>
+            <td></td>
+            <td>1642</td>
+            <td>S.l. </td>
+         </tr>
+         <tr>
+            <td>A25631.xml</td>
+            <td>An Answer to two objections against a bill depending in the Honourable House of Lords
+               for restraining East-India wrought silks, &amp;c.
+            </td>
+            <td></td>
+            <td>1695</td>
+            <td>London? </td>
+         </tr>
+         <tr>
+            <td>A26167.xml</td>
+            <td>An apology for the East-India Company with an account of some large prerogatives of
+               the crown of England, anciently exercised and allowed of in our law, in relation to
+               foreign trade and foreign parts / by W.A. ...
+            </td>
+            <td>Atwood, William, d. 1705?</td>
+            <td>1690</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A28809.xml</td>
+            <td>A briefe discovery or description of the most famous island of Madagascar or St. Laurence
+               in Asia neare unto East-India with relation of the healthfulnesse, pleasure, fertility
+               and wealth of that conntrey [sic] ... also the condition of the natives ... also the
+               excellent meanes and accommodation to fit the planters there ... / by R.B. and Francis
+               Lloyd, merchants.
+            </td>
+            <td>Boothby, Richard.</td>
+            <td>1647</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A28810.xml</td>
+            <td>A true declaration of the intollerable wrongs done to Richard Boothby, merchant of
+               India, by two lewd servants to the honorable East India Company, Richard Wylde and
+               George Page as also a remonstrance of the partiall, ingratefull and unjust proceeds
+               of the India Court at home against the said Richard Boothby ... with petition to ...
+               King Charles and the ... Parliament for justice ...
+            </td>
+            <td>Boothby, Richard.</td>
+            <td>1644</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A29016.xml</td>
+            <td>Of the reconcileableness of specifick medicines to the corpuscular philosophy to which
+               is annexed a discourse about the advantages of the use of simple medicines / by Robert
+               Boyle ...
+            </td>
+            <td>Boyle, Robert, 1627-1691.</td>
+            <td>1685</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A29589.xml</td>
+            <td>The Dvtch vsurpation, or, A brief view of the behaviours of the States-General of
+               the United Provinces, towards the kings of Great Britain with some of their cruelties
+               and injustices exercised upon the subjects of the English nation; as also, a discovery
+               of what arts they have used to arrive at their late grandeur, &amp;c. / by William De
+               Britaine.
+            </td>
+            <td>De Britaine, William.</td>
+            <td>1672</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A29669.xml</td>
+            <td>Catalogus librorum bibliothecæ reverend. &amp; eruditi viri D. Samuelis Brooke, aulæ Catharinæ
+               quondam socius. Quorum auctio habenda est Londini, ad insigne Pelicani in vico vulgo
+               dicto Little-Britain vicessimo primo Martii 1680/81. Per Gulielmi Cooper bibliopolam.
+            </td>
+            <td>Brooke, Samuel, d. 1631.</td>
+            <td>1681</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A29745.xml</td>
+            <td>A brief remonstrance of the grand grievances and oppressions suffered by Sir William
+               Courten and Sir Paul Pyndar, knts., deceased as also by their heirs, executors, administrators,
+               and creditors : humbly represented to both Houses of Parliament, prorogued to 21 October
+               1680 : faithfully collected out of several courts of record, orders of counsel, and
+               treaties of peace and common alliance : with several remarks thereupon for the improvement
+               of naviagation, trade, and commerce / by John Brown.
+            </td>
+            <td>Brown, John, of London.</td>
+            <td>1680</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A29774.xml</td>
+            <td>A description of Mr. D-n's funeral a poem.</td>
+            <td>Brown, Thomas, 1663-1704.</td>
+            <td>1700</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A29995.xml</td>
+            <td>The Duke of Buckingham's speech in a late conference</td>
+            <td>Buckingham, George Villiers, Duke of, 1628-1687.</td>
+            <td>1668</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A30463.xml</td>
+            <td>Some letters, containing an account of what seemed most remarkable in Switzerland,
+               Italy, some parts of Germany, &amp;c. in the years 1685 and 1686 written by G. Burnet,
+               D.D. to the Hoble. R.B. ; to which is added, An appendix, containing some remarks
+               on Switzerland and Italy, writ by a person of quality, and communicated to the author
+               ; together with a table of the contents of each letter.
+            </td>
+            <td>Burnet, Gilbert, 1643-1715.</td>
+            <td>1688</td>
+            <td>Amsterdam </td>
+         </tr>
+         <tr>
+            <td>A31150.xml</td>
+            <td>The Case of the East India Company</td>
+            <td></td>
+            <td>1694</td>
+            <td>S.l. </td>
+         </tr>
+         <tr>
+            <td>A31152.xml</td>
+            <td>The Case of the English-Company trading to the East-Indies erected in pursuance of
+               an act of Parliament for raising two millions, and for settling the said trade.
+            </td>
+            <td></td>
+            <td>1698</td>
+            <td>S.l. </td>
+         </tr>
+         <tr>
+            <td>A32838.xml</td>
+            <td>A supplement, 1689 to a former treatise concerning the East-India trade, printed 1681.</td>
+            <td>Child, Josiah, Sir, 1630-1699.</td>
+            <td>1689</td>
+            <td>S.l. </td>
+         </tr>
+         <tr>
+            <td>A32839.xml</td>
+            <td>A treatise wherein is demonstrated, I. That the East-India trade is the most national
+               of all foreign trades, II. That the clamors, aspersions, and objections made against
+               the present East-India company, are sinister, selfish, or groundless, III. That since
+               the discovery of the East-Indies, the dominion of the sea depends much upon the wane
+               or increase of that trade, and consequently the security of the liberty, property,
+               and protestant religion of this kingdom, IV. That the trade of the East-Indies cannot
+               be carried on to national advantage,  in any other way than by a general joynt stock,
+               V. That the East-India trade is more profitable and necessary to the kingdom of England,
+               than to any other kingdom or nation in Europe by Philopatris.
+            </td>
+            <td>Child, Josiah, Sir, 1630-1699.</td>
+            <td>1681</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A33690.xml</td>
+            <td>Reflections upon the East-Indy and Royal African Companies with animadversions, concerning
+               the naturalizing of foreigners / by Roger Coke.
+            </td>
+            <td>Coke, Roger, fl. 1696.</td>
+            <td>1695</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A34069.xml</td>
+            <td>Fraud and violence discovered and detected, or, A remonstrance of the interessed in
+               the ships Bona Esperanza and Henry Bona Adventura of London with a narrative of the
+               proceedings in the case (depending before the States General of the Seven United Provinces)
+               between the assignes of William Courten and the East-India Company of the Netherlands
+               : also, several reasons and arguments for the speedy decision of differences (by amicable
+               conferences of state) arising upon depredations and spoyls / by George Carevv ...
+            </td>
+            <td>Carew, George, Esq.</td>
+            <td>1662</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A34083.xml</td>
+            <td>Lex talionis, or, The Law of marque or reprizals fully represented in the case of
+               spoyls and depredations upon the ships, goods and factories of Sir William Courten
+               and his partners in the East-Indies, China and Japan : whereupon letters patents for
+               reprizals were granted under the great seal of England to continue effectual in the
+               law against the States General of the United Provinces and their subjects ... : together
+               with three several proposals of the creditors, to the King, and their answer (in a
+               postscript) to the Lord Chancellour's arguments upon the scire facias brought by Sir
+               Robert Sawyer ... concerning the letters patents aforesaid.
+            </td>
+            <td></td>
+            <td>1682</td>
+            <td>London printed </td>
+         </tr>
+         <tr>
+            <td>A34133.xml</td>
+            <td>A vindication of the severall actions at law, brought against the heires of Sr. Peter
+               Courten, Knight, and Peter Boudaen, merchants deceased by George Carew, Esqr., James
+               Boeve, merchant, and Hester de Weyer ; with the arraignment of a most scandalous pamphlet
+               called, De quade Minees en practiken van seeckeren George Carew, ontdeckt en opengeleght,
+               tot onderrichtingh en waerschouw aen Nederlandt, door d'Erfgenamen van P.B.C., Zalr.
+               1675, privately given out to the magistrates in Zeeland.
+            </td>
+            <td>Carew, George, Esq.</td>
+            <td>1675</td>
+            <td>Middelburgh </td>
+         </tr>
+         <tr>
+            <td>A34767.xml</td>
+            <td>To the Kings Most Excellent Majesty the humble peticion of William Courten, esquire,
+               grandchild and heyre of Sr. William Courten, deceased and George Carew, esquire, administrator
+               of the goods and chattells of Sr. William Courten on the behalf of themselves and
+               several others, your Majesties good subjects of England.
+            </td>
+            <td>Courten, William, 1642-1702.</td>
+            <td>1674</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A35605.xml</td>
+            <td>The Case of Charles Price, merchant, and others, owners and freighters of the ship
+               Andaluzia
+            </td>
+            <td></td>
+            <td>1680</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A36823.xml</td>
+            <td>A true and compendious narration or, second part of Amboyna, or sundry notorious or
+               remarkable injuries, insolencies, and acts of hostility which the Hollanders have
+               exercised from time to time against the English nation in the East-Indies, &amp;c. and
+               particularly of the totall plundering and sinking of the Dragon &amp; Katharine both ships
+               and men : with undeniable and convincing proofs for evidencing the truth thereof,
+               and satisfaction of the reader / by a person of long observation and experiences employed
+               first and last in the affairs of the Indies, fifty years, to wit, from Sr. Walter
+               Rawleigh, his voyage, 1615 to this present year 1665 by J. D.
+            </td>
+            <td>J. D. (John Darell)</td>
+            <td>1665</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A37163.xml</td>
+            <td>An essay on the East-India-trade by the author of The essay upon wayes and means.</td>
+            <td>Davenant, Charles, 1656-1714.</td>
+            <td>1696</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A37224.xml</td>
+            <td>An answer to those printed papers published in March last 1640 by the late patentees
+               of salt in their pretended defence and against free trade composed by Iohn Davies.
+            </td>
+            <td>Davies, John, Citizen and fishmonger of London.</td>
+            <td>1641</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A37549.xml</td>
+            <td>By-laws, constitutions, orders and rules for the good government of the Corporation
+               of the United Company of Merchants of England, trading to the East-Indies, ...
+            </td>
+            <td>East India Company.</td>
+            <td>1701</td>
+            <td>London</td>
+         </tr>
+         <tr>
+            <td>A37550.xml</td>
+            <td>By-laws proposed by the governour, deputy-governour, and committee of nine, pursuant
+               to an order of the general court for the better manageing and regulating the companies
+               affairs and approved of in a general court of the East-India Company, holden the 17th.
+               of January, 1694/5.
+            </td>
+            <td>East India Company.</td>
+            <td>1695</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A37551.xml</td>
+            <td>The case of the governour and company of merchants of London, trading to the East-Indies,
+               humbly represented to the Lords Spiritual and Temporal, in Parliament assembled.
+            </td>
+            <td>East India Company.</td>
+            <td>1698</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A37554.xml</td>
+            <td>The East-India stock in the companies books stands as principal about 740000 l. and
+               no doubt of its being worth that
+            </td>
+            <td></td>
+            <td>1690</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A40482.xml</td>
+            <td>A relation of two several voyages made into the East Indies by Christopher Fryke and
+               Christopher Schewitzer the whole containing an exact account of the customs, dispositions,
+               manners, religion, &amp;c. of the several kingdoms and dominions in those parts of the
+               world in general : but in a more particular manner, describing those countries which
+               are under the  power and government of the Dutch / done out of the Dutch by S.L .
+            </td>
+            <td>Frick, Christoph, b. 1659.</td>
+            <td>1700</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A41163.xml</td>
+            <td>A brief account of some of the late incroachments and depredations of the Dutch upon
+               the English and of a few of those many advantages which by fraud and violence they
+               have made of the British nations since the revolution, and of the means enabling them
+               thereunto.
+            </td>
+            <td>Ferguson, Robert, d. 1714.</td>
+            <td>1645</td>
+            <td>London? </td>
+         </tr>
+         <tr>
+            <td>A41166.xml</td>
+            <td>The East-India-trade a most profitable trade to the kingdom. And best secured and
+               improved in a company, and a joint-stock. Represented in a letter written upon the
+               occasion of two letters lately published, insinuating the contrary.
+            </td>
+            <td>Ferguson, Robert, d. 1714.</td>
+            <td>1677</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A42246.xml</td>
+            <td>The grounds of complaint of several merchants and other traders of the City of London,
+               who are humble petitioners to the Honourable House of Commons, against the present
+               managers of the East-India Company
+            </td>
+            <td></td>
+            <td>1720</td>
+            <td>London</td>
+         </tr>
+         <tr>
+            <td>A45304.xml</td>
+            <td>A modest offer of some meet considerations, tendred to the English about their coyne
+               and trade, and particularly to East India
+            </td>
+            <td>Hall, Joseph, 1574-1656.</td>
+            <td>1695</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A46567.xml</td>
+            <td>A proclamation for restraining all His Majesties subjects, but the members and agents
+               of the East-India Company, to trade in the East-Indies, and recalling such as are
+               there by James R.
+            </td>
+            <td>England and Wales. Sovereign (1685-1688 : James II)</td>
+            <td>1685</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A46578.xml</td>
+            <td>By the King, a proclamation, for the recalling all His Majesties subjects from the
+               service of foreign princes in East India
+            </td>
+            <td>England and Wales. Sovereign (1685-1688 : James II)</td>
+            <td>1686</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A46620.xml</td>
+            <td>To the right honourable the House of Lords</td>
+            <td>James, Elinor.</td>
+            <td>1688</td>
+            <td>London ? </td>
+         </tr>
+         <tr>
+            <td>A46717.xml</td>
+            <td>The Argument of the Lord Chief Justice of the Court of King's Bench concerning the
+               great case of monopolies, between the East-India Company, plantiff, and Thomas Sandys,
+               defendant wherein their patent for trading to the East-Indies, exclusive of all others,
+               is adjudged good.
+            </td>
+            <td></td>
+            <td>1689</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A48185.xml</td>
+            <td>A letter to a member of Parliament concerning clandestine trade. Shewing how far the
+               evil practices at the custom-house at London tend to the encouragement of such a trade.
+               Written by a Fair Merchant.
+            </td>
+            <td>Fair merchant.</td>
+            <td>1700</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A49560.xml</td>
+            <td>Considerations humbly tendred, concerning the East-India company.</td>
+            <td>Langhorne, William, Sir, 1629-1715.</td>
+            <td>1688</td>
+            <td>London? </td>
+         </tr>
+         <tr>
+            <td>A50952.xml</td>
+            <td>Miltons republican-letters or a collection of such as were written by command of the
+               late Commonwealth of England from the year 1648 to the year 1659 / originally writ
+               by the learned John Milton,  secretary to those times ; and now translated into English
+               by a wel-wisher of England's honour. Literae pseudo-senatûs anglicani Cromwellii.
+               English
+            </td>
+            <td>England and Wales. Council of State.</td>
+            <td>1682</td>
+            <td>Amsterdam? </td>
+         </tr>
+         <tr>
+            <td>A54635.xml</td>
+            <td>Britannia languens: or, A discourse of trade shewing, that the present management
+               of trade in England, is the true reason of the decay of our manufactures, and the
+               late great fall of land-rents; and that the increase of trade, in the method it now
+               stands in, must proportionably decay England. Wherein is particularly demonstrated,
+               that the East-India Company, as now managed, has already near destroyed our trade
+               in those parts, as well as that with Turky, and in short time must necessarily beggar
+               the nation. Humbly offered to the consideration of this present Parliament.
+            </td>
+            <td>Petyt, William, 1636-1707.</td>
+            <td>1689</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A55762.xml</td>
+            <td>The pretence of the present East India Companies property stated and considered as
+               well in respect to the sole trade exclusive to all others, as to their islands, forts,
+               &amp;c.
+            </td>
+            <td></td>
+            <td>1698</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A57014.xml</td>
+            <td>A reply on behalf of the present East-India Company, to a paper of complaints, commonly
+               called, The thirteen articles delivered by their adversaries, to the members of the
+               honourable House of Commons.
+            </td>
+            <td>East India Company.</td>
+            <td>1698</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A57437.xml</td>
+            <td>Englands safety in trades encrease most humbly presented to the high court of Parliament
+               / by Henry Robinson ...
+            </td>
+            <td>Robinson, Henry, 1605?-1664?</td>
+            <td>1641</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A58222.xml</td>
+            <td>Reasons against establishing an East-India Company with a joynt-stock exclusive to
+               all others.
+            </td>
+            <td></td>
+            <td>1700</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A60565.xml</td>
+            <td>A brief abstract of the case concerning the letters patents for reprizals (hereunto
+               annexed) against the States-General and their subjects whereupon Capt. Compton Gwyther,
+               William Coates, Joseph Bullivant, John Baxter, Francis Wansell, Francis Martin, John
+               Gibson, and William Jones, prisoners in the Marshalsea, are to be tryed for their
+               lives, according to the common law of England, on the 18th of February instant, upon
+               the Statute of 28 Henry 8. cap. 15 under the pretence of piracy, for taking a Galliot-Hoy
+               (called the Love of Rotterdam) laden with 160 tun of wine, and prunes, on the 3d of
+               December last, bound from Bourdeaux to Dort / faithfully recollected out of all the
+               originals by Thomas Smith Gent. ; with some remarkable observations both upon the
+               matters of fact, and the law in the whole case.
+            </td>
+            <td>Smith, Thomas, Gent.</td>
+            <td>1681</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A60917.xml</td>
+            <td>A journey to London in the year 1698 after the ingenuous method of that made by Dr.
+               Martin Lyster to Paris in the same year, &amp;c. / written originally in French by Monsieur
+               Sorbiere and newly translated into English.
+            </td>
+            <td>King, William, 1663-1712.</td>
+            <td>1698</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A61878.xml</td>
+            <td>A further iustification of the present war against the United Netherlands illustrated
+               with several sculptures / by Henry Stubbe.
+            </td>
+            <td>Stubbe, Henry, 1632-1676.</td>
+            <td>1673</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A62738.xml</td>
+            <td>To the honorable the knights, citizens and burgesses, in Parliament assembled. The
+               humble petition of Robert Tayloe, Joseph Emerson, John Sawbridge and Edward Pearce
+               on the behalf of themselves and other poor marriners, to the number of five hundred
+               and upwards, who served the East-India Company in their late wars against the great
+               mogul, and other heathen princes: and on the behalf of the widows and orphans of other
+               marriners to the like number, that perished in the said wars.
+            </td>
+            <td></td>
+            <td>1685</td>
+            <td>London? </td>
+         </tr>
+         <tr>
+            <td>A63962.xml</td>
+            <td>The foreigners. Part I a poem.</td>
+            <td>Tutchin, John, 1661?-1707.</td>
+            <td>1700</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A64339.xml</td>
+            <td>Ten considerations in favour of the East-India Company</td>
+            <td></td>
+            <td>1698</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A65019.xml</td>
+            <td>The travels of Sig. Pietro della Valle, a noble Roman, into East-India and Arabia
+               Deserta in which, the several countries, together with the customs, manners, traffique,
+               and rites both religious and civil, of those oriental princes and nations, are faithfully
+               described, in familiar letters to his friend Signior Mario Schipano : whereunto is
+               added a relation of Sir Thomas Roe's Voyage into the East-Indies. Viaggi. Parte 3.
+               English
+            </td>
+            <td>Della Valle, Pietro, 1586-1652.</td>
+            <td>1665</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A65910.xml</td>
+            <td>Memorials of the English affairs, or, An historical account of what passed from the
+               beginning of the reign of King Charles the First, to King Charles the Second his happy
+               restauration containing the publick transactions, civil and military : together with
+               the private consultations and secrets of the cabinet.
+            </td>
+            <td>Whitlocke, Bulstrode, 1605-1675 or 6.</td>
+            <td>1682</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A65974.xml</td>
+            <td>The tryal and execution of Father Henry Garnet, superior provincial of the Jesuits
+               in England for the powder-treason collected by Roger Widdrington, a Roman Catholick,
+               and by him addressed unto Pope Paul the Fifth, printed in Latin 1616 in his appendix
+               to his Humble Supplication, p. 124, and thence translated. Now published to make it
+               further evident, that it is no new thing for Jesuits to curse and ban, to justifie
+               a lie. Humillima supplicatio. Appendix. English. Selections
+            </td>
+            <td>Preston, Thomas, 1563-1640.</td>
+            <td>1679</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A65983.xml</td>
+            <td>Severall remarkable passages concerning the Hollanders since the death of Queene Elizabeth,
+               untill the 25th of December, 1673 Some animadversions thereupon, in answere to a scandulous
+               pamphlett called Englands appeale to the Parliament, from the private caball at white
+               hall. With the continuation of the case between Sr. VVilliam Courten his heires and
+               assignes and the East-India Company of the Netherlands, faithfully recollected by
+               E.W. armig: and rendred into English, French, and Dutch, for satisfaction of his particular
+               friends, in England, France, and the low countriers.
+            </td>
+            <td>E. W.</td>
+            <td>1673</td>
+            <td>London or Middelburgh? </td>
+         </tr>
+         <tr>
+            <td>A66356.xml</td>
+            <td>Virginia, more especially the south part thereof, richly and truly valued viz. the
+               fertile Carolana, and no lesse excellent Isle of Roanoak, of latitude from 31 to 37
+               degr. relating the meanes of raysing infinite profits to the adventurers and planters.
+            </td>
+            <td>Williams, Edward, fl. 1650.</td>
+            <td>1650</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A66951.xml</td>
+            <td>The surgeons mate or Military &amp; domestique surgery Discouering faithfully &amp; plainly
+               ye method and order of ye surgeons chest, ye uses of the instruments, the vertues
+               and operations of ye medicines, with ye exact cures of wounds made by gunshott, and
+               otherwise as namely: wounds, apos fumes, ulcers, fistula's, fractures, dislocations,
+               with ye most easie &amp; safest wayes of amputation or dismembring. The cures of the scuruey,
+               of ye fluxes of ye belly, of ye collicke and iliaca passio, of tenasmus and exitus
+               ani, and of the calenture, with A treatise of ye cure of ye plague. Published for
+               the service of his Ma. tie and of the com:wealth. By John Woodall Mr. in chyrurgerie.
+               Surgions mate, or A treatise discouering faithfully and plainely the due contents
+               of the surgions chest
+            </td>
+            <td>Woodall, John, 1556?-1643.</td>
+            <td>1617</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A67893.xml</td>
+            <td>A second courante of newes from the East India in two letters. The one written by
+               Master Patricke Copland then preacher to the English in the East India, to master
+               Adrian Iacobson Hulsebus preacher to the Dutch. The other written by Master Thomas
+               Knowles factor there &amp;c. By both which letters you may vnderstand of some other occurrents
+               betwixt the English and Dutch in those parts
+            </td>
+            <td>Copland, Patrick, ca. 1570-ca. 1655.</td>
+            <td>1622</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A68246.xml</td>
+            <td>His Maiesties gracious letter to the Earle of South-Hampton, treasurer, and to the
+               Councell and Company of Virginia heere commanding the present setting vp of silke
+               works, and planting of vines in Virginia. And the letter of the treasurer, Councell,
+               and Company, to the gouernour and Councell of State there, for the strict execution
+               of his Maiesties royall commands herein. Also a treatise of the art of making silke
+               ... Together with instructions how to plant and dresse vines, and to make wine, and
+               how to dry raisins, figs, and other fruits ... Set foorth for the benefit of the two
+               renowned and most hopefull sisters, Virginia, and the Summer-Ilands. By Iohn Bonoeil
+               Frenchman, seruant in these imployments to his most excellent Maiesty of Great Brittaine,
+               France, Ireland, Virginia, and the Summer-Ilands. Published by authority.
+            </td>
+            <td>Bonoeil, John.</td>
+            <td>1622</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A69858.xml</td>
+            <td>A discourse concerning trade, and that in particular of the East-Indies wherein several
+               weighty propositions are fully discussed, and the state of the East-India Company
+               is faithfully stated.
+            </td>
+            <td>Child, Josiah, Sir, 1630-1699.</td>
+            <td>1689</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A70105.xml</td>
+            <td>A representation of the threatning dangers, impending over Protestants in Great Brittain
+               With an account of the arbitrary and popish ends, unto which the declaration for liberty
+               of conscience in England, and the proclamation for a toleration in Scotland, are designed.
+            </td>
+            <td>Ferguson, Robert, d. 1714.</td>
+            <td>1687</td>
+            <td>Edinburgh </td>
+         </tr>
+         <tr>
+            <td>A71276.xml</td>
+            <td>Athenæ Oxonienses. Vol. 1. an exact history of all the writers and bishops who have
+               had their education in the most ancient and famous University of Oxford, from the
+               fifteenth year of King Henry the Seventh, Dom. 1500, to the end of the year 1690 representing
+               the birth, fortune, preferment, and death of all those authors and prelates, the great
+               accidents of their lives, and the fate and character of their writings : to which
+               are added, the Fasti, or, Annals, of the said university, for the same time ...
+            </td>
+            <td>Wood, Anthony à, 1632-1695.</td>
+            <td>1691</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A71277.xml</td>
+            <td>Athenæ Oxonienses. Vol. 2. an exact history of all the writers and bishops who have
+               had their education in the most ancient and famous University of Oxford, from the
+               fifteenth year of King Henry the Seventh, Dom. 1500, to the end of the year 1690 representing
+               the birth, fortune, preferment, and death of all those authors and prelates, the great
+               accidents of their lives, and the fate and character of their writings : to which
+               are added, the Fasti, or, Annals, of the said university, for the same time ...
+            </td>
+            <td>Wood, Anthony à, 1632-1695.</td>
+            <td>1692</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A75916.xml</td>
+            <td>Advice about the new East-India stock, in a letter to a friend</td>
+            <td></td>
+            <td>1691</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A78260.xml</td>
+            <td>The case of the marriners which served the East-India Comapny in their wars in the
+               East-Indies. And of the widows and orphans of those that perished in the said wars,
+               to the number of five hundred, and as many widows. : Humbly presented to the honourable
+               House of Commons.
+            </td>
+            <td></td>
+            <td>1690</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A82358.xml</td>
+            <td>To the right honourable the knights, citizens and burgesses assembled in Parliament.
+               The East-India Company's answer to the petition of John Jolliffe and Edmond Harrison
+               in behalf of themselves and others
+            </td>
+            <td></td>
+            <td>1688</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A91669.xml</td>
+            <td>A Reply to the popular arguments used for confirming the present East-India Company,
+               by grafting upon them with a word or two in behalf of the new subscriptions.
+            </td>
+            <td></td>
+            <td>1700</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>A92659.xml</td>
+            <td>Proclamation anent petitoning [sic]. Proclamations. 1699-12-18</td>
+            <td>Scotland. Privy Council.</td>
+            <td>1699</td>
+            <td>Edinburgh </td>
+         </tr>
+         <tr>
+            <td>A95658.xml</td>
+            <td>A voyage to East-India. Wherein some things are taken notice of in our passage thither,
+               but many more in our abode there, within that rich and most spacious empire of the
+               Great Mogol. Mix't with some parallel observations and inferences upon the storie,
+               to profit as well as delight the reader. / Observed by Edward Terry minister of the
+               Word (then student of Christ-Church in Oxford, and chaplain to the Right Honorable
+               Sr. Thomas Row Knight, Lord Ambassadour to the great Mogol) now rector of the church
+               at Greenford, in the county of Middlesex.
+            </td>
+            <td>Terry, Edward, 1590-1660.</td>
+            <td>1655</td>
+            <td>London </td>
+         </tr>
+         <tr>
+            <td>B02939.xml</td>
+            <td>East-India trade</td>
+            <td></td>
+            <td>1698</td>
+            <td>London </td>
+         </tr>
+      </table>
+   </body>
+</html>
